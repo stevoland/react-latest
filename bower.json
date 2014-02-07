@@ -1,0 +1,11 @@
+{
+  "name": "react-bootstrap",
+  "version": "0.9.0-alpha",
+  "main": [
+    "react.js",
+    "react.min.js",
+    "react-with-addons.js",
+    "react-with-addons.min.js"
+  ],
+  "ignore": []
+}
